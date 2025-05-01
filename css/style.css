@@ -1,26 +1,42 @@
+ 
+ 
  .container{
     font-family: "Red Hat Display";
     justify-content: center;
-    align-items: centre;
-    text-align: left;
+    align-items:center;
+    text-align:center;
     border-radius: 3;
     background-color: hsl(0, 0%, 100%);
     margin: auto;
   width: 40%;
-  border: 1px;
-  padding: 30px;
-  border-radius: 25px;
+ 
+   
  }
- .img{ 
-    text-align: center;
-   border-top-right-radius:  25%px;
-   border-top-left-radius: 25% px;
+ .one{ 
    width: 100%;
-
+   
+   border-top: 1.25rem;
 }
-/*
-.sec-1{
+
+.two{
    text-align: center;
    font-size: 18px ; 
 }
-*/
+
+.or{
+   color:dimgrey;
+}
+.three{
+   background-color: hsl(225, 100%, 94%);
+   text-align: center;
+   margin: auto;
+}
+ 
+.special{
+   width: 33,3333;
+   float: right;
+    
+}
+.clear-fix{
+   clear: both;
+}
